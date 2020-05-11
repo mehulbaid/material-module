@@ -1,0 +1,22 @@
+{
+  "name": "@mehulbaid/material-module",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^9.1.6",
+    "@angular/core": "^9.1.6",
+    "tslib": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehulbaid/material-module"
+  },
+  "author": {
+    "name": "Mehul Baid",
+    "email": "mehulbaid@outlook.com",
+    "url": "https://www.mehulbaid.tech"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "ngcc"
+  }
+}
